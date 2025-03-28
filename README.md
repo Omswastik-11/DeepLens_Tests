@@ -1,7 +1,7 @@
 # DeepLense_Tests
 This is my personal repository to submit my solutions to the test problems provided by ML4SCI as a selection test for GSOC'25.
 
-<img src="https://github.com/user-attachments/assets/cf60146c-84d2-478a-b3fa-bb46af2d1d29" width="500">
+<img src="https://github.com/user-attachments/assets/9c943b25-360a-4d03-9b72-f9a043f522b5" width="500">
 
 # Dataset generation 
 
