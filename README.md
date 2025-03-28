@@ -5,7 +5,7 @@ This is my personal repository to submit my solutions to the test problems provi
 
 # Dataset generation 
 
-<img src="https://github.com/user-attachments/assets/806e2e52-12d7-4f34-b057-3f110685ad98" width="700">
+<img src="https://github.com/user-attachments/assets/ccb4d6e3-4cdf-4446-aa95-da65ff47c00a" width="700">
 
 
 As given in Image the dataset contains images of three class **"no"** ,**"spherical"**, **"vortex"** substructures having 10000 training image and 2500 testing images for each class . I introduced data Augumantation technique which decreased models training accuracy overall predicting accuracy of moel is increased. It made the dataset more tough . \
@@ -21,13 +21,14 @@ We applied the following transformations to preprocess the dataset:
 
 On this dataset after 50 epochs the model performed very well with atraing accuracy of **95.01 %** and traing accuracy of **94.80 %** . 
 
+
    **Traing Result** 
    
-<img src="https://github.com/user-attachments/assets/ce4ca5ff-1581-4929-9f8b-6c79f32aee4d" width="400">\
+<img src="https://github.com/user-attachments/assets/952b257e-bad2-46b4-aef6-113d2b230b63" width="400">\
 
    **Testing Result** 
    
-<img src="https://github.com/user-attachments/assets/078cd380-ea1e-4a90-9bba-1844febe3824" width="400">\
+<img src="https://github.com/user-attachments/assets/db503de2-151a-407e-afd4-23e617153b1e" width="400">\
 
 # Approach for Task-1 
 I used three Architectures **ResNet-18**,**EfficientNetB0**,**DensNet** and trained each for 50 epochs on the dataset. 
