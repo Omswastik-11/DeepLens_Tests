@@ -1,4 +1,4 @@
-# DeepLense_Tests
+![428096796-9fe9abfd-2130-472e-abcf-052ff4f3a668](https://github.com/user-attachments/assets/a72d2586-5aa3-4d56-a517-42d9686fa6e2)# DeepLense_Tests
 This is my personal repository to submit my solutions to the test problems provided by ML4SCI as a selection test for GSOC'25.
 
 <img src="https://github.com/user-attachments/assets/9c943b25-360a-4d03-9b72-f9a043f522b5" width="500">
@@ -24,11 +24,11 @@ On this dataset after 50 epochs the model performed very well with atraing accur
 
    **Traing Result** 
    
-<img src="https://github.com/user-attachments/assets/952b257e-bad2-46b4-aef6-113d2b230b63" width="400">\
+<img src="https://github.com/user-attachments/assets/952b257e-bad2-46b4-aef6-113d2b230b63" width="400">
 
    **Testing Result** 
    
-<img src="https://github.com/user-attachments/assets/db503de2-151a-407e-afd4-23e617153b1e" width="400">\
+<img src="https://github.com/user-attachments/assets/db503de2-151a-407e-afd4-23e617153b1e" width="400">
 
 # Approach for Task-1 
 I used three Architectures **ResNet-18**,**EfficientNetB0**,**DensNet** and trained each for 50 epochs on the dataset. 
@@ -41,12 +41,11 @@ I used three Architectures **ResNet-18**,**EfficientNetB0**,**DensNet** and trai
 # Specific test - 5 (Physics-Informed Neural Network)
    **Approach-1**
    
-<img src="https://github.com/user-attachments/assets/fecc4ddd-5fdd-4765-9a18-c1124fcec14c" width="400">\
-
+<img src="https://github.com/user-attachments/assets/d1f054dd-3091-4acb-8feb-948c8a35f909" width="400">
 
    **Approach-2**
 
-<img src="https://github.com/user-attachments/assets/d345ec75-46a8-4aa9-addf-23e2118563fb" width="400">\
+<img src="https://github.com/user-attachments/assets/82409e4d-65fd-4938-bd5c-f16e1a1837e1" width="400">\
 
   | Model       | Accuracy       | No of Parameters | Computation time | ROC AUC score | Colab Notbook | Weights |
 |-------------|----------------|------------------|------------------|--------------|----------------|------|
@@ -107,11 +106,11 @@ In this approach, I used image **preprocessing** and a **converter** to transfor
 
 **Preprocess**
 
-<img src="https://github.com/user-attachments/assets/9fe9abfd-2130-472e-abcf-052ff4f3a668" width="700">\
+<img src="https://github.com/user-attachments/assets/0c9a029d-4dfa-4479-96bb-87aca86f1713" width="700">\
 
 **Converter**
 
-<img src="https://github.com/user-attachments/assets/c5e5f422-2cc3-4047-8b21-1d5bece8ba90" width="500">\
+<img src="https://github.com/user-attachments/assets/6e182ee0-dc06-489b-9f65-5a9f96045fe4" width="500">\
 
 
 I used encoder-decoder architecture.
