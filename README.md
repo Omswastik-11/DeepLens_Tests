@@ -1,4 +1,4 @@
-![428096796-9fe9abfd-2130-472e-abcf-052ff4f3a668](https://github.com/user-attachments/assets/a72d2586-5aa3-4d56-a517-42d9686fa6e2)# DeepLense_Tests
+# DeepLense_Tests
 This is my personal repository to submit my solutions to the test problems provided by ML4SCI as a selection test for GSOC'25.
 
 <img src="https://github.com/user-attachments/assets/9c943b25-360a-4d03-9b72-f9a043f522b5" width="500">
