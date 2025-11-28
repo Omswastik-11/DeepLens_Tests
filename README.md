@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/9c943b25-360a-4d03-9b72-f9a043f522b5" width="500">
-
 # Dataset generation 
 
 <img src="https://github.com/user-attachments/assets/ccb4d6e3-4cdf-4446-aa95-da65ff47c00a" width="700">
